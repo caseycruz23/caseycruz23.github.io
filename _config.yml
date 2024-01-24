@@ -1,13 +1,9 @@
 title: Casey Cruz # your name (or website title) here
 logo: "/images/image.jpeg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Objective: 
-  <br>Obtain a career track starting position involving 
-  software development,data analysis, coding, and deployment. Open to 
-  opportunities in diverse industries, including business and defense.<br>
+  About: 
+  <br>I am currently enrolled as a senior at St. Mary's College of Maryland. In May of 2024 I will graduate with a Bachelors of Science in computer science. Once I graduate I will be looking for a career track starting position involving data analysis, coding, and deployment into the real world. I am open to opportunities in diverse industries, including business and defense.<br>
   
-  Education:  
-  <br>Bachelors of Science, Computer Science, St. Mary’s College of Maryland    (est. May 2024) <br>
   <a href="">View My Resume</a> 
   
 theme: jekyll-theme-minimal
