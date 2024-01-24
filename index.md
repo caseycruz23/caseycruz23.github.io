@@ -4,8 +4,9 @@
 
 ### Intro to Data Science (COSC 360) Final Project: Health Indicators & Diabetes
 
-This project encompasses ideas learned throughout COSC 360 Intro to Data Science. This includes Data Collection, Data Storage, Data Analysis, Data and Visualization. The main goal is to analyze data on health indicators and their relation to the presence of Diabetes
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+This project encompasses ideas learned throughout COSC 360 Intro to Data Science. This includes Data Collection, Data Storage, Data Analysis, Data and Visualization. The main goal is to analyze data on health indicators and their relation to the presence of Diabetes.
+
+[View code on Colab](https://colab.research.google.com/github/caseycruz23/caseycruz23.github.io/blob/master/images/CruzDataScienceFinal-2.ipynb#scrollTo=58b440de-866b-40d2-a2e0-0fe04646177f)
 
 ---
 ### News Category Classification
