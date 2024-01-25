@@ -12,29 +12,12 @@ This project encompasses ideas learned throughout COSC 360 Intro to Data Science
 ### News Category Classification
 
 This project read in a dataset that contains articles titles, descriptions, and categories to perform a classification model. It does Laplace smoothing and calculates category probabilities based on the article title and description. It uses cross validation to train and test the model.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[View code on Colab](https://colab.research.google.com/drive/1hmB1y8bWp7ZE0OPutKUvXiNeJyQDzEJE#scrollTo=4600400b-dcf9-47a2-95bf-e25a832b63d6)
 
 ---
 ### Webscraper
 
 This project is a web scraper that takes the top articles from the CNN website. It acquires the article titles and word counts from the website.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[View code on Colab](https://colab.research.google.com/github/caseycruz23/caseycruz23.github.io/blob/master/images/CruzFinalWebScraper-3.ipynb)
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
